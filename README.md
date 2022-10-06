@@ -1,3 +1,5 @@
 # SimpleChat_NodeJs
 
-to run this app just open two pages.
+To run this app just open two pages.
+
+Use npm run dev, to have nodemon executed as well.
